@@ -60,6 +60,7 @@
     visibility: hidden;
 
     transition: 0.4s;
+    overflow: hidden;
 }
 
 
@@ -82,6 +83,7 @@
 
 .header .gnb>ul>li>ul li:hover {
     background: var(--bg-color);
+
 }
 
 .header .gnb>ul>li>ul li a {
